@@ -3,3 +3,6 @@ header:
 
 ren:
 	quarto render
+
+open:
+	 open _site/index.html

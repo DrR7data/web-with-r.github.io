@@ -9,6 +9,7 @@ website:
         text: Home
       - about.qmd
       - py2.ipynb
+      - noteR.Rmd
 
 format:
   html:

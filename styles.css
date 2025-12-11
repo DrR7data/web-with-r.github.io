@@ -1,1 +1,11 @@
 /* css styles */
+
+#grap {
+    display: flex;
+    flex-direction: row;
+}
+
+.grapp{
+    display: flex;
+    flex-direction: row;
+}
